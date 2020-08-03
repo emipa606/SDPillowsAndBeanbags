@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- beanbag -->
+
+  <sd_pillowsCo_beanbag.label>beanbag</sd_pillowsCo_beanbag.label>
+  <sd_pillowsCo_beanbag.description>A place to just sit down and spill the beans.</sd_pillowsCo_beanbag.description>
+  <sd_pillowsCo_beanbag_Blueprint.label>beanbag (blueprint)</sd_pillowsCo_beanbag_Blueprint.label>
+  <sd_pillowsCo_beanbag_Blueprint_Install.label>beanbag (blueprint)</sd_pillowsCo_beanbag_Blueprint_Install.label>
+  <sd_pillowsCo_beanbag_Frame.label>beanbag (building)</sd_pillowsCo_beanbag_Frame.label>
+  <sd_pillowsCo_beanbag_Frame.description>A place to just sit down and spill the beans.</sd_pillowsCo_beanbag_Frame.description>
+
+
+  <!-- pillow -->
+
+  <sd_pillowsCo_pillow.label>pillow</sd_pillowsCo_pillow.label>
+  <sd_pillowsCo_pillow.description>A pillow large enough to sit on.</sd_pillowsCo_pillow.description>
+  <sd_pillowsCo_pillow_Blueprint.label>pillow (blueprint)</sd_pillowsCo_pillow_Blueprint.label>
+  <sd_pillowsCo_pillow_Blueprint_Install.label>pillow (blueprint)</sd_pillowsCo_pillow_Blueprint_Install.label>
+  <sd_pillowsCo_pillow_Frame.label>pillow (building)</sd_pillowsCo_pillow_Frame.label>
+  <sd_pillowsCo_pillow_Frame.description>A pillow large enough to sit on.</sd_pillowsCo_pillow_Frame.description>
+
+
+</LanguageData>
