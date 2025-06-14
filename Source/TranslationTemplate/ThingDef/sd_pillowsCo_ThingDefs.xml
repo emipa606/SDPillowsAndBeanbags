@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: beanbag -->
+  <sd_pillowsCo_beanbag.label>beanbag</sd_pillowsCo_beanbag.label>
+  <!-- EN: A place to just sit down and spill the beans. -->
+  <sd_pillowsCo_beanbag.description>A place to just sit down and spill the beans.</sd_pillowsCo_beanbag.description>
+  <!-- EN: pillow -->
+  <sd_pillowsCo_pillow.label>pillow</sd_pillowsCo_pillow.label>
+  <!-- EN: A pillow large enough to sit on. -->
+  <sd_pillowsCo_pillow.description>A pillow large enough to sit on.</sd_pillowsCo_pillow.description>
+</LanguageData>

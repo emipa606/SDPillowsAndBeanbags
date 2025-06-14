@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1646936399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f9464779219ddb2b4c9e5214e2480cc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f9464779219ddb2b4c9e5214e2480cc9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/beanbag/sd_pillowsCo_beanbag_north.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/pillow/sd_pillowsCo_pillow_east.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/beanbag/sd_pillowsCo_beanbag_east.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/pillow/sd_pillowsCo_pillow_eastm.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/pillow/sd_pillowsCo_pillow_north.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/menu_icons/sd_pillowsCo_beanbag_menuicon.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/beanbag/sd_pillowsCo_beanbag_southm.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/menu_icons/sd_pillowsCo_pillow_menuicon.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/beanbag/sd_pillowsCo_beanbag_eastm.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/pillow/sd_pillowsCo_pillow_south.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/beanbag/sd_pillowsCo_beanbag_south.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/pillow/sd_pillowsCo_pillow_northm.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/beanbag/sd_pillowsCo_beanbag_northm.png
+- Assets/Data/Mlie.SDPillowsAndBeanbags/Textures/sd_pillowsCo/pillow/sd_pillowsCo_pillow_southm.png
+Dependencies: []
